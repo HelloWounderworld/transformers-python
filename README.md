@@ -9,7 +9,13 @@ This project was created to study about Transformers Python Library. We use fast
 
 1. https://github.com/huggingface/transformers
 
+1. https://github.com/huggingface/transformers/tree/main/examples
+
 1. https://huggingface.co/learn/nlp-course/chapter1/1
+
+1. https://huggingface.co/docs/transformers/main_classes/pipelines
+
+1. https://huggingface.co/blog/how-to-train
 
 1. https://www.scielo.br/j/ea/a/wXBdv8yHBV9xHz8qG5RCgZd/?form=MG0AV3
 
